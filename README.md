@@ -26,9 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cz4e&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cz4e&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-<div align="left">
-  <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
-</div>
 
 ### My GitHub Contributions
 
