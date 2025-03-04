@@ -17,7 +17,7 @@
 
 ### My GitHub Contributions
 
-![](./snake/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/cz4e/cz4e/output/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
@@ -28,12 +28,6 @@
 <div align="left">
   <img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2541726616266382" />
 </div>
-
-### My Activities
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ### My GitHub Contributions
 
