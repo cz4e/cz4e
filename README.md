@@ -11,6 +11,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%230072b3?style=flat-square&logo=C&logoColor=%23fff">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-E34F26?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Solidity-F0?style=flat-square&logo=Solidity&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23c66394?style=flat-square&logo=Python&logoColor=%23fff">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 </span>
