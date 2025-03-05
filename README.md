@@ -29,4 +29,4 @@
 
 ### My GitHub Contributions
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![Contrib](./profile-3d-contrib/profile-gitblock.svg)
