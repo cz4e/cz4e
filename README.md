@@ -2,7 +2,7 @@
 ## Hi, 👋 I'm cz4e, 🎉
 
 - ☎️：
-- 📫 Contact: wlyphy@mail.ustc.edu.cn
+- 📧 Contact: wlyphy@mail.ustc.edu.cn
 
 ### Languaues and Tools
 
